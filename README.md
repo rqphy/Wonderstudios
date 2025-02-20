@@ -6,7 +6,7 @@
 
 We’ve all seen those splendid Apple website when new products come out. Yeah the ones with all the amazing scroll animations. Well, that’s the goal of this project. The founders of Wonderstudios asked me to find a way to create a lookalike animation for the agency website.
 
-[Live](https://wonderstudios.com)
+/!\ The site is not live anymore
 
 ## The method
 
